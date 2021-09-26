@@ -17,12 +17,15 @@
 .summery{
     background-color: #00000030;
     border-left: 2px solid lightgreen;
+    padding-left: 5px;
 }
 .cart-summery{
-    
-    padding: 20px;
+    padding: 30px; 
     margin: 10px;
     color: #fff8c5fc;
     position: fixed;
     text-align: left;
+    background-color:  #282c349b;
+    border: 1px solid rgb(115 236 34 / 75%);
+    border-radius: 10px
 }

@@ -11,7 +11,7 @@
     {
         "ID": "002",
         "Name": "codeplex",
-        "Type": "web designer",
+        "Type": "Logo designer",
         "Salary": 10000,
         "Level": 0,
         "country": "USA",
@@ -29,7 +29,7 @@
     {
         "ID": "004",
         "Name": "saboorriaz",
-        "Type": "web designer",
+        "Type": "Logo designer",
         "Salary": 30000,
         "Level": 1,
         "country": "USA",
@@ -47,7 +47,7 @@
     {
         "ID": "006",
         "Name": "ali_ahmad98",
-        "Type": "web designer",
+        "Type": "web developer",
         "Salary": 50000,
         "Level": 2,
         "country": "USA",
@@ -56,7 +56,7 @@
     {
         "ID": "007",
         "Name": "alvien_gorden",
-        "Type": "web designer",
+        "Type": "web developer",
         "Salary": 50000,
         "Level": 2,
         "country": "USA",
@@ -101,7 +101,7 @@
     {
         "ID": "012",
         "Name": "kutsalwebdev",
-        "Type": "web designer",
+        "Type": "web developer",
         "Salary": 10000,
         "Level": 0,
         "country": "USA",
@@ -137,7 +137,7 @@
     {
         "ID": "016",
         "Name": "shaharyar3",
-        "Type": "web designer",
+        "Type": "web developer",
         "Salary": 50000,
         "Level": 2,
         "country": "USA",
@@ -155,7 +155,7 @@
     {
         "ID": "018",
         "Name": "orbitbrain",
-        "Type": "web designer",
+        "Type": "Logo designer",
         "Salary": 30000,
         "Level": 1,
         "country": "USA",
