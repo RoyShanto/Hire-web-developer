@@ -8,12 +8,9 @@ const CartSummery = (props) => {
     for (const product of cart) {
         totalProgrammer.push(product)
     }
+    //Remove duplicate data of an array
     totalProgrammer = [...new Set(totalProgrammer)]
-    // console.log(totalProgrammer);
-    // console.log(totalProgrammer.length);
     totalProgrammer.map(m => totalSalary = totalSalary + m.Salary);
-    // members.map(m => console.log(m))
-
 
     return (
         <div className="cart-details">

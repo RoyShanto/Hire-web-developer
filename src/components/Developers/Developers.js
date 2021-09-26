@@ -13,7 +13,6 @@ const Developers = () => {
     const handelAddToCart = (product) => {
         const newCart = [...cart, product];
         setCart(newCart);
-        // addToDb(product.key);  //add local Storage
     }
 
     return (
