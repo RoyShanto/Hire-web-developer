@@ -1,0 +1,23 @@
+.cart{
+    background-color:  rgb(112 154 190 / 58%);
+    margin: 7px;
+    padding: 10px;
+    border: 2px solid rgba(115, 236, 34, 0.747);
+    border-radius: 10px;
+    color: #fff8c5fc;
+    line-height: 17px;
+}
+.btn-hire{
+    padding: 10px 110px;
+    background-color: rgba(58, 163, 224, 0.89);
+    border: 2px solid lightgreen;
+    border-radius: 10px;
+    color: lightyellow;
+    font-weight: 700;
+    font-size: large;
+}
+.cart img{
+    border-radius: 50%;
+    border: 1px solid lightsalmon;
+    text-align: center;
+}

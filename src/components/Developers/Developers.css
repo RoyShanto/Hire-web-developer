@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+    grid-template-columns: 75% auto;
+    /* background-color: rgba(238, 194, 136, 0.877); */
+    /* background-color: rgba(33, 60, 216, 0.733);
+    border */
+    background-image: url("https://th.bing.com/th/id/R.5e9416adab9d98223d6be8bcb82e563a?rik=nBk527ujrXaZ8w&pid=ImgRaw&r=0");
+
+/* opacity: 90%; */
+
+    background-size: cover;
+}
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.summery{
+    background-color: #00000030;
+    border-left: 2px solid lightgreen;
+}
+.cart-summery{
+    
+    padding: 20px;
+    margin: 10px;
+    color: #fff8c5fc;
+    position: fixed;
+    text-align: left;
+}

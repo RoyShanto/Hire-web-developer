@@ -1,0 +1,16 @@
+.header{
+    /* background-color: rgb(49, 83, 231); */
+    /* background-color:  rgb(139, 136, 80); */
+    background-image: url("https://i.pinimg.com/originals/3a/47/6a/3a476ae2d27ae8c1dfecffa83f83fff6.jpg");
+    padding: 10px;
+    color: white;
+    border: 2px solid lightgreen;
+    font-size: larger;
+}
+.header h1{
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.header h3{
+    margin-top: 0px;
+}
